@@ -1,6 +1,6 @@
 # !!! OBSOLETE !!!
 
-This repo has been archived. Use [openmaptiles-tools/imports/wikidata](https://github.com/openmaptiles/openmaptiles-tools/tree/master/imports/wikidata) instead.
+This repo has been archived. Use [openmaptiles-tools/docker/import-wikidata](https://github.com/openmaptiles/openmaptiles-tools/tree/master/docker/import-wikidata) instead.
 
 -----
 
